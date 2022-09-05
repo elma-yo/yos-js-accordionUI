@@ -13,6 +13,11 @@ dl > div {
     margin-bottom: 8px;
 }
 
+dt {
+    padding: 8px;
+}
+
 dd {
+    padding: 8px;
     margin: 0;
 }
