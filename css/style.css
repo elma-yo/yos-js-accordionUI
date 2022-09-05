@@ -17,6 +17,7 @@ dt {
     padding: 8px;
     cursor: pointer;
     user-select: none;
+    position: relative;
 }
 
 dt::before {
@@ -25,6 +26,9 @@ dt::before {
 
 dt::after {
     content: '+';
+    position: absolute;
+    top: 8px;
+    right: 16px;
 }
 
 dd {
