@@ -24,6 +24,7 @@ dt::before {
 dd {
     padding: 8px;
     margin: 0;
+    display: none;
 }
 
 dd::before {
