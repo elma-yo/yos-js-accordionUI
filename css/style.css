@@ -15,6 +15,7 @@ dl > div {
 
 dt {
     padding: 8px;
+    cursor: pointer;
 }
 
 dt::before {
