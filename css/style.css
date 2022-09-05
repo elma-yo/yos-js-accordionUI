@@ -23,6 +23,10 @@ dt::before {
     content: 'Q. ';
 }
 
+dt::after {
+    content: '+';
+}
+
 dd {
     padding: 8px;
     margin: 0;
