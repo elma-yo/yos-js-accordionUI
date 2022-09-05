@@ -17,7 +17,15 @@ dt {
     padding: 8px;
 }
 
+dt::before {
+    content: 'Q. ';
+}
+
 dd {
     padding: 8px;
     margin: 0;
+}
+
+dd::before {
+    content: 'A. ';
 }
