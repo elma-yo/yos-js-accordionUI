@@ -9,6 +9,10 @@ dl {
     margin: 0;
 }
 
+dl > div {
+    margin-bottom: 8px;
+}
+
 dd {
     margin: 0;
 }
