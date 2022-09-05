@@ -16,6 +16,7 @@ dl > div {
 dt {
     padding: 8px;
     cursor: pointer;
+    user-select: none;
 }
 
 dt::before {
